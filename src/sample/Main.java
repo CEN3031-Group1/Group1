@@ -1,5 +1,7 @@
 package sample;
 
+// Irrelevant comment added by Wyatt to test repository permissions
+
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
